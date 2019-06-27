@@ -1,0 +1,8 @@
+Dataset : 
+--> collection of data in CSV, text, excel etc..
+--> if we need to implement the Matrix we will use LIST in pyhton
+--> so, we can use Numpy instead of LIST
+
+Numpy:
+--> Numpy is package of python but implemented using of C/C++
+--> we can do some mathematical calculations
